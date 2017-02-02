@@ -1,2 +1,3 @@
-# Leetcode_Algorithm_Easy
-# Leetcode_Algorithm_Easy
+ This is the first version of solutions. Practice makes perfect. Keep Moving!
+ 
+ There are so much need to learn to use Github.
